@@ -17,7 +17,7 @@ entries:
         url: https://www.intrinsec.com/pakistani-freelancers-building-cracking-websites-for-stealer-delivery/
       - title: Eye Pyramid C2 linked to ransomware
         url: https://www.intrinsec.com/ip-cluster-linking-ransomware-activity-and-eye-pyramid-c2/
-      - title: Phishing tool: Premium Panel
+      - title: Phishing tool - Premium Panel
         url: https://www.intrinsec.com/premium-panel-phishing-tool-used-in-longstanding-campaigns-worldwide/
       - title: Links between Pandorahvnc and Mesh Central
         url: https://www.intrinsec.com/a-stalker-in-the-box-infrastructure-linking-pandorahvnc-and-mesh-central/
@@ -29,4 +29,6 @@ entries:
       - title: LinkedIn
         url: https://www.linkedin.com/in/ruben-m-a8104421b/
       - title: Twitter
-        url: https://x.com
+        url:
+      - title: Mail
+        url:
