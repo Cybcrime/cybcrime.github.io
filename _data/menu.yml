@@ -2,13 +2,12 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: ABOUT
+  - title: ABOUT<br/>
     entries:
-      - title: <br/>Cyberthreat analyst for more than 4 years. I do not have a technical background, but I learned a lot while on the job.
-      - title: Find below my public analysis and other publications. Feel free to contact me via my socials!
+      - title: Cyberthreat analyst for more than 4 years. I do not have a technical background, but I learned a lot while on the job.
+      - title: Find below my public analysis and other publications. Feel free to contact me via my socials!<br/>
 
-  - title: PUBLICATIONS AND ANALYSES
-
+  - title: PUBLICATIONS AND ANALYSES<br/>
     entries:
       - title: Russian Market analysis
         url: https://www.intrinsec.com/mapping-fly-a-threat-actor-with-links-to-russian-markets-infrastructure/
@@ -23,8 +22,7 @@ entries:
       - title: Links between Pandorahvnc and Mesh Central
         url: https://www.intrinsec.com/a-stalker-in-the-box-infrastructure-linking-pandorahvnc-and-mesh-central/
 
-  - title: CONTACT ME
-
+  - title: CONTACT ME<br/>
     entries:
       - title: GitHub
         url: https://github.com/Cybcrime
