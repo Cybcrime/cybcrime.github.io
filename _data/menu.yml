@@ -6,7 +6,8 @@ entries:
     entries:
       - title: Cyberthreat analyst for more than 4 years. I do not have a technical background, but I learned a lot while on the job.
       - title: Find below my public analyses and other publications. Feel free to contact me via my socials!
-  title: "<br/>"
+  title: " "   
+    entries: []
   - title: PUBLICATIONS AND ANALYSES
     entries:
       - title: Russian Market analysis
@@ -21,7 +22,8 @@ entries:
         url: https://www.intrinsec.com/premium-panel-phishing-tool-used-in-longstanding-campaigns-worldwide/
       - title: Links between Pandorahvnc and Mesh Central
         url: https://www.intrinsec.com/a-stalker-in-the-box-infrastructure-linking-pandorahvnc-and-mesh-central/
-  title: "<br/>"
+  title: " "   
+    entries: []
   - title: CONTACT ME
     entries:
       - title: GitHub
