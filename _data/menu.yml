@@ -20,7 +20,10 @@ entries:
         url: https://www.intrinsec.com/premium-panel-phishing-tool-used-in-longstanding-campaigns-worldwide/
       - title: Links between Pandorahvnc and Mesh Central
         url: https://www.intrinsec.com/a-stalker-in-the-box-infrastructure-linking-pandorahvnc-and-mesh-central/
-      - title: Co-authored [Analysis of Acreed](https://www.intrinsec.com/analysis-of-acreed-a-rising-infostealer/)
+      - title: Co-authored 
+        entries:
+        - title: Analysis of Acreed
+          url: https://www.intrinsec.com/analysis-of-acreed-a-rising-infostealer/
   - title: CONTACT ME
     entries:
       - title: GitHub
