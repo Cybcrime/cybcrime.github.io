@@ -1,10 +1,10 @@
 ---
 layout: post
 category: example2
-title: Piracy and plunder as an effective survival strategy: the North Korean case.
+title: Piracy and plunder as an effective growth strategy, the North Korean case.
 ---
 
-Piracy and plunder as an effective survival strategy: the North Korean case.
+Piracy and plunder as an effective growth strategy: the North Korean case.
 
 ## Table of contents
 - [Table of contents](#table-of-contents)
