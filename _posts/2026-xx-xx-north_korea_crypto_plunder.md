@@ -1,6 +1,5 @@
 ---
 layout: post
-category: example2
 title: Piracy and plunder as an effective growth strategy, the North Korean case.
 ---
 
