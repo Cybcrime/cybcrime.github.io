@@ -17,3 +17,7 @@ Find below all public reports written by myself:
   <br> <a href="https://www.intrinsec.com/premium-panel-phishing-tool-used-in-longstanding-campaigns-worldwide/">Phishing tool - Premium Panel</a>
   <br> <a href="https://www.intrinsec.com/a-stalker-in-the-box-infrastructure-linking-pandorahvnc-and-mesh-central/">Links between Pandorahvnc and Mesh Central</a>
   <br> <a href="https://www.intrinsec.com/analysis-of-acreed-a-rising-infostealer/">Analysis of Acreed stealer (co-authored)</a>
+
+  ## Music project
+
+  ## Photography project
