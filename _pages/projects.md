@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-permalink: /
+permalink: /projects/
 ---
 
 ## Publications and reports
