@@ -13,8 +13,8 @@ Find below all public reports and articles I have written:
 
 2026
 
-<a href="https://www.intrinsec.com/chaos-is-a-ladder-vidar-rise-to-the-top/" target="_blank">Vidar 2.0</a>
-<br><a href="https://www.intrinsec.com/phantomvai-custom-loader-built-on-an-old-runpe-utility-used-in-worldwide-campaigns/" target="_blank">PhantomVAI Loader</a>
+_April 2026_ – <a href="https://www.intrinsec.com/chaos-is-a-ladder-vidar-rise-to-the-top/" target="_blank">Vidar 2.0</a>
+<br>_January 2026_ – <a href="https://www.intrinsec.com/phantomvai-custom-loader-built-on-an-old-runpe-utility-used-in-worldwide-campaigns/" target="_blank">PhantomVAI Loader</a>
   
 2025
 
