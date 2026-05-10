@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: About
 permalink: /
 ---
@@ -8,7 +8,7 @@ Cyber Threat Intelligence Analyst for close to 5 years. I am also interested in 
 Feel free to contact me by email or via my socials.
 
 ## Publications and reports
-
+---
 Find below all public reports and articles I have written:
 
 2026
